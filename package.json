@@ -1,0 +1,25 @@
+{
+  "name": "selenium-cucumber-demo",
+  "version": "1.0.0",
+  "description": "Demo for portfolio using selenium and cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thrillhouse555/cucumber-saucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thrillhouse555/cucumber-saucedemo/issues"
+  },
+  "homepage": "https://github.com/Thrillhouse555/cucumber-saucedemo#readme",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
+    "chromedriver": "^138.0.5",
+    "selenium-webdriver": "^4.34.0"
+  }
+}
